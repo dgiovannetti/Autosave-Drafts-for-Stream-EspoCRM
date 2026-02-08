@@ -1,0 +1,6 @@
+{
+    "scriptList": [
+        "__APPEND__",
+        "client/custom/modules/autosave-draft/src/autosave-patch.js"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Autosave Drafts for Stream",
+    "description": "Automatically saves Activity Stream posts to drafts while typing.",
+    "version": "1.0.0",
+    "author": "Tu o Tua Azienda",
+    "php": [">=8.0"],
+    "acceptableVersions": ["9.3.*", ">=9.3.0"],
+    "skipBackup": true
+}

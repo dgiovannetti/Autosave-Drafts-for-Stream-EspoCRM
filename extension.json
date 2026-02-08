@@ -1,0 +1,7 @@
+{
+    "name": "AutosaveDraft",
+    "version": "1.0.0",
+    "install": {
+        "copy": [{ "from": "src/files", "to": "" }]
+    }
+}

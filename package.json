@@ -1,0 +1,11 @@
+{
+  "name": "espocrm-autosave-draft",
+  "version": "1.0.0",
+  "description": "Autosave Stream Drafts Plugin",
+  "main": "build.js",
+  "scripts": { "build": "node build.js" },
+  "dependencies": {
+    "archiver": "^5.3.0",
+    "fs-extra": "^10.0.0"
+  }
+}
